@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Castoro+Titling&family=Covered+By+Your+Grace&family=Montserrat:wght@600&family=Special+Elite&display=swap');
+
+.campo-titulo {
+    margin: 24px 0;
+    color: rgb(0, 0, 0);
+    font-family: 'Castoro Titling', cursive;
+}
+
+.campo-titulo label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.campo-titulo input {
+    background-color: aliceblue;
+    box-shadow: 10px 10px 30px cornflowerblue;
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
